@@ -14,5 +14,3 @@ public class star {
 		}
 	}
 }
-/** 中文测试 UTF-8字符集是否正常展示 **/
-/** From macOS Terminal 中文测试 **/
