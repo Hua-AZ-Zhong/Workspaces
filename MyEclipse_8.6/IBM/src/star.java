@@ -14,3 +14,4 @@ public class star {
 		}
 	}
 }
+/** ÖĞÎÄ²âÊÔ **/
