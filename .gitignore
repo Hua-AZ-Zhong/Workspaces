@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.txt
+test.c
+a.out
+*.swp
+.DS_Store
+.metadata
+.myeclipse
+.settings
+.classpath
+.project
+bin
