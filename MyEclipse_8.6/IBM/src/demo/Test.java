@@ -1,8 +1,10 @@
+package demo;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class test
+
+public class Test
 {
 	public static void main(String args[]){
 		System.out.println("hello world");
@@ -14,7 +16,7 @@ public class test
 	        number = Integer.valueOf(reader.readLine());
 		} catch (IOException ex) {   
         }   
-		star star=new star();
+		Star star=new Star();
 		star.printStar(number);
 	}
 }

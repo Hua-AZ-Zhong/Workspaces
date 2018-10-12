@@ -1,7 +1,8 @@
+package demo;
 
-public class divide {
+public class Divide {
 
-	public divide() {
+	public Divide() {
 		// TODO Auto-generated constructor stub
 	}
 

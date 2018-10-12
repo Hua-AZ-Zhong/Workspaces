@@ -1,3 +1,4 @@
+package crack;
 import java.io.*;   
   
 public class MyEclipseGen {   

@@ -1,5 +1,6 @@
+package demo;
 
-public class star {
+public class Star {
 	public void printStar(int number){
 		int line=0,space=0,star=0;
 		for(line=0;line<number;line++){                    // first loop for line
